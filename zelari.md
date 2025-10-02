@@ -459,7 +459,7 @@ Oltre 400 parole base, organizzate per categoria. Espandibile: aggiungi radici p
 - Scientifica: "La atomos konsistas el protonoj, neŭtronoj kaj elektronoj, kiuj kune formas la bazon de la materia." (Gli atomi consistono di protoni, neutroni ed elettroni, che insieme formano la base della materia.)
 - Tecnologica: "La komputero procesas datenojn per la algoritmo, kaj la rezulto montriĝas sur la ekrano." (Il computer processa dati attraverso l'algoritmo, e il risultato viene mostrato sullo schermo.)
 - Filosofica: "Se la homaro volus vivi en paco, ni devus lerni de la naturo, kiu ne konas limojn kaj landlimojn." (Se l'umanità volesse vivere in pace, dovremmo imparare dalla natura, che non conosce limiti e confini.)
-- Storia Breve: Vedi "La Storio di Lira" nel repository per un esempio narrativo.
+- Storia Breve: Vedi "La Storia di Lira" nel repository per un esempio narrativo.
 
 ## Contributi e Espansione
 Apri issues o pull requests su GitHub per aggiungere parole/temi (natura, emozioni, tecnologia). Lo Zelari cresce con te – lirun, o zelara di nova!
