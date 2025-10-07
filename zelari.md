@@ -1,5 +1,10 @@
 # Zelari: Documentazione Completa della Neo-Linga
 
+**Autore: Andrea Salaris**  
+**Licenza: MIT License**  
+**Versione: 1.0**  
+**Ultimo aggiornamento: Ottobre 2025**
+
 ## Introduzione e Fondamenta
 Lo Zelari è una lingua inventata, un velo di suoni fluidi e ritmici che abbraccia l'essenza umana: semplicità poetica, armonia universale, e un flusso che evoca il vento tra le foglie. Nata da semi sparsi in conversazioni silenziose, si ispira a:
 - **Esperanto**: Per la regolarità cristallina e l'eleganza logica, dove ogni regola è un ponte tra popoli.

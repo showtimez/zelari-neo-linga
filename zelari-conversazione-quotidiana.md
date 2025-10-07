@@ -1,5 +1,10 @@
 # Zelari: Guida alla Conversazione Quotidiana
 
+**Autore: Andrea Salaris**  
+**Licenza: MIT License**  
+**Versione: 1.0**  
+**Ultimo aggiornamento: Ottobre 2025**
+
 ## Introduzione
 Questa guida ti aiuterà a usare lo Zelari nelle situazioni quotidiane più comuni, dal saluto formale alla conversazione informale al bar.
 

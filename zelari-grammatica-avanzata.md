@@ -1,5 +1,10 @@
 # Zelari: Guida alla Grammatica Avanzata
 
+**Autore: Andrea Salaris**  
+**Licenza: MIT License**  
+**Versione: 1.0**  
+**Ultimo aggiornamento: Ottobre 2025**
+
 ## Introduzione
 Questa guida esplora le strutture grammaticali complesse dello Zelari, fornendo esempi dettagliati e spiegazioni per costruire frasi sofisticate in vari contesti, dalla letteratura alla comunicazione tecnica.
 

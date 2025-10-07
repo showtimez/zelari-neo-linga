@@ -1,5 +1,10 @@
 # Zelari: Raccolta di Espressioni Idiomatiche e Modi di Dire
 
+**Autore: Andrea Salaris**  
+**Licenza: MIT License**  
+**Versione: 1.0**  
+**Ultimo aggiornamento: Ottobre 2025**
+
 ## Introduzione
 Questa raccolta presenta le espressioni idiomatiche e i modi di dire più comuni in Zelari, con traduzione letterale, significato figurato, contesto d'uso ed esempi pratici. Le espressioni sono organizzate per categoria tematica per facilitare l'apprendimento e l'uso appropriato.
 

@@ -1,5 +1,10 @@
 # Zelari: Manuale di Terminologia Scientifica
 
+**Autore: Andrea Salaris**  
+**Licenza: MIT License**  
+**Versione: 1.0**  
+**Ultimo aggiornamento: Ottobre 2025**
+
 ## Introduzione
 Questo manuale fornisce un vocabolario completo e frasi specifiche per comunicare in ambito scientifico e tecnico utilizzando la lingua Zelari. Copre le principali discipline scientifiche con terminologia appropriata per discussioni formali, presentazioni e pubblicazioni.
 

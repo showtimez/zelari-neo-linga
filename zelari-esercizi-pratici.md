@@ -1,5 +1,10 @@
 # Zelari: Esercizi Pratici per l'Apprendimento
 
+**Autore: Andrea Salaris**  
+**Licenza: MIT License**  
+**Versione: 1.0**  
+**Ultimo aggiornamento: Ottobre 2025**
+
 ## Introduzione
 Questa guida di esercizi pratici è progettata per aiutare gli studenti a consolidare la conoscenza della lingua Zelari attraverso attività progressive che coprono tutti gli aspetti della lingua: grammatica, vocabolario, conversazione e comprensione.
 
