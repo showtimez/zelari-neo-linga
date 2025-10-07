@@ -201,6 +201,14 @@ Oltre 400 parole base, organizzate per categoria. Espandibile: aggiungi radici p
 | | Run | Kurar | Da "kuri". |
 | | Love | Amar | Da "ami". |
 | | Say | Dirar | Da "diri". |
+| **Viaggio e Esplorazione** | Travel | Viar | Da radice viaria. |
+| | Explore | Explorar | Da "explore" + suffix zelariano. |
+| | Discover | Raskar | Da "re-search" + ar. |
+| | Navigate | Navigar | Da "navigate" + ar. |
+| | Journey | Vojag | Da "voyage" + ag. |
+| | Launch | Lancar | Da "lancer" + ar. |
+| | Orbit | Orbitar | Da "orbit" + ar. |
+| | Land | Atterar | Da "atterrir" + ar. |
 | **Natura e Elementi** | Sun | Suno | Da "suno". |
 | | Moon | Luno | Da "luno". |
 | | Star | Stelo | Da "stelo". |
@@ -217,6 +225,33 @@ Oltre 400 parole base, organizzate per categoria. Espandibile: aggiungi radici p
 | | Mouth | Buko | Da "buŝo". |
 | | Heart | Koro | Da "koro". |
 | | Head | Kapo | Da "kapo". |
+| **Veicoli e Trasporti** | Spaceship | Kosm-nav | Compound: kosm(ospazio) + nav(nave). |
+| | Rocket | Raketo | Da "rocket" + o. |
+| | Portal | Portar | Da "portal" + ar. |
+| | Vehicle | Vehikl | Da "vehicle" latin root. |
+| | Engine | Motor | Da "motor" universal. |
+| | Station | Stacio | Da "stacio". |
+| | Base | Baz | Da "base" + z. |
+| **Oggetti Cosmici** | Star | Stelo | Da "stelo". |
+| | Galaxy | Galaks | Da "galaxy" latin root. |
+| | Planet | Planed | Da "planet" latin root. |
+| | Comet | Komet | Da "comet" latin root. |
+| | Asteroid | Asteroid | Da "asteroid" latin root. |
+| | Nebula | Nebul | Da "nebula" latin root. |
+| **Concetti Astronomici** | Orbit | Orbit | Da "orbit" latin root. |
+| | Gravity | Gravit | Da "gravity" latin root. |
+| | Light | Lum | Da "light" latin root. |
+| | Dark | Malum | Da "mal" + "lum". |
+| | Signal | Signal | Da "signal" universal. |
+| | Dimension | Dimension | Da "dimension" latin root. |
+| | Universe | Univers | Da "universe" latin root. |
+| | Infinity | Infinit | Da "infinity" latin root. |
+| **Concetti Temporali** | Time | Temp | Da "time" latin root. |
+| | Space | Kosm | Da "cosmos" greek root. |
+| | Destination | Destin | Da "destination" latin root. |
+| | Future | Futur | Da "future" latin root. |
+| | Past | Pasat | Da "past" latin root. |
+| | Moment | Moment | Da "moment" universal. |
 | **Altro** | Name | Nomo | Da "nomo". |
 | | Language | Toki | Da "toki". |
 | | Peace | Pona | Da "pona". |
@@ -433,7 +468,69 @@ Oltre 400 parole base, organizzate per categoria. Espandibile: aggiungi radici p
 **Amico B:** Perfekte! Mi el atendi la sabedo kun joyo.
 (Perfetto! Aspetterò il sabato con gioia.)
 
-## Espressioni Idiomatiche e Modi di Dire
+## Sistema di Composti Tematici
+
+### Regole di Composizione
+- **Unione con trattino**: radice1-radice2
+- **Fonologia mantenuta**: nessun clash consonantico
+- **Significato chiaro**: prima radice = nucleo, seconda = modificatore
+- **Massimo 2-3 radici** per composto
+
+### Composti di Viaggio e Esplorazione
+
+| Composto | Radici | Significato | Esempio |
+|----------|--------|-------------|---------|
+| **Stel-viaro** | stel + viaro | Astroviaggiatore | La stel-viaro explor-as galaks-on. |
+| **Kosm-porto** | kosm + porto | Portale spaziale | Ni eniras kosm-port-on. |
+| **Temp-rediso** | temp + rediso | Riscoperta temporale | Mi far-as temp-redis-on. |
+| **Sun-orbito** | sun + orbito | Orbita solare | Planed-oj sun-orbit-as. |
+| **Galaks-exploro** | galaks + exploro | Esploratore galattico | La galaks-exploro map-as novajn mondojn. |
+| **Signal-gvid** | signal + gvid | Guida tramite segnali | La signal-gvid helpas nin. |
+| **Ter-nav** | ter + nav | Astronave terrestre | La ter-nav-al preiras. |
+| **Lun-baz** | lun + baz | Base lunare | Ni konstru-as lun-baz-on. |
+
+### Composti Astronomici
+
+| Composto | Radici | Significato | Esempio |
+|----------|--------|-------------|---------|
+| **Stel-brilo** | stel + brilo | Bagliore stellare | La stel-brilo illuminas la nokt-on. |
+| **Kosm-profund** | kosm + profund | Profondità cosmica | Ni explor-as kosm-profund-on. |
+| **Planed-surfac** | planed + surfac | Superficie planetaria | La planed-surfac estas rok-a. |
+| **Galaks-centr** | galaks + centr | Centro galattico | Ni vojas al galaks-centr-on. |
+| **Nebul-form** | nebul + form | Formazione nebulare | La nebul-form estas bel-a. |
+
+## Verbi Modali Compatibili
+
+### Integrazione nel Sistema Verbale Esistente
+
+| Modalità | Forma Zelariana | Esempio | Traduzione |
+|----------|----------------|---------|------------|
+| **Potere** | Povar-el | Mi povar explor-i | Io posso esplorare |
+| **Dovere** | Dev-ar-el | Ni dev-ar voyag-i | Noi dobbiamo viaggiare |
+| **Volere** | Vol-ar-el | Si vol-ar trov-i | Lei vuole trovare |
+| **Sapere** | Sciar-el | Vi sciar navig-i | Voi sapete navigare |
+| **Potenziale** | Posibl-el | El posibl venir | Lui potrebbe venire |
+| **Necessità** | Necesar-el | Mi necesar help-i | Ho bisogno di aiutare |
+
+### Negazione dei Modali
+Uso del prefisso "na-" standard:
+- **Na-povar-el** (non può)
+- **Na-dev-ar-el** (non deve)  
+- **Na-vol-ar-el** (non vuole)
+
+## Espressioni Idiomatiche Cosmiche
+
+| Espressione Zelari | Traduzione Letterale | Significato Figurato | Contesto d'Uso |
+|-------------------|---------------------|---------------------|----------------|
+| **Stelo en la menso** | Stella nella mente | Ispirazione improvvisa, idea geniale | Momenti di creatività |
+| **Kosmo parolas silente** | Il cosmo parla silenziosamente | Rivelazione attraverso osservazione | Scoperte scientifiche |
+| **Voj-stelo gvidas nin** | La stella della via ci guida | Direzione chiara, guida interiore | Decisioni importanti |
+| **Tempo-fluo en manoj** | Il tempo fluisce nelle mani | Opportunità da cogliere subito | Occasioni preziose |
+| **Radikoj de la kosmo** | Radici del cosmo | Connessione profonda con l'universo | Esperienze spirituali |
+| **Sun-leviĝo de penso** | Alba del pensiero | Nuova comprensione, illuminazione | Apprendimento |
+| **Stel-pluvo en animo** | Pioggia di stelle nell'anima | Momento di magia interiore | Esperienze mistiche |
+
+## Espressioni Idiomatiche Tradizionali
 
 | Espressione | Letteralmente | Significato | Contesto |
 |-------------|---------------|-------------|----------|

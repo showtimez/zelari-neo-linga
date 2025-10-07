@@ -340,6 +340,139 @@ Gli esercizi sono organizzati per livello di difficoltà:
 - Esercizio 17: Fotosintezo-Processo mediante cui le piante producono energia; DNA-Molecola che contiene l'informazione genetica; Mitozo-Processo di divisione cellulare; Enzimo-Catalizzatore biologico; Elektromagneto-Studio dei fenomeni elettrici
 - Esercizio 18: 1) dometo, 2) skribilo, 3) feliĉa, 4) sciencisto, 5) malkompreni
 
+## Esercizi di Viaggio e Esplorazione (Nuovo Tema)
+
+### Esercizi di Vocabolario Spaziale
+
+#### Esercizio 29: Vocabolario di Esplorazione
+**Istruzioni:** Associa ogni parola Zelari alla sua traduzione italiana:
+
+| Zelari | | Italiano |
+|--------|---|----------|
+| Kosm-nav | [ ] | Mappa |
+| Stel-viaro | [ ] | Pianeta |
+| Explorar | [ ] | Orbita |
+| Planed | [ ] | Esplorare |
+| Orbit | [ ] | Astroviaggiatore |
+| Portar | [ ] | Portale |
+| Signal | [ ] | Astronave |
+| Map | [ ] | Segnale |
+
+#### Esercizio 30: Composti Cosmici
+**Istruzioni:** Spiega il significato dei seguenti composti:
+
+1. **Stel-viaro** = _______________________________________________
+2. **Kosm-porto** = _______________________________________________
+3. **Temp-rediso** = _______________________________________________
+4. **Sun-orbito** = _______________________________________________
+5. **Galaks-exploro** = _____________________________________________
+
+#### Esercizio 31: Frasi da Completare
+**Istruzioni:** Completa le frasi con le parole appropriate:
+
+1. La _______________ navigas nello spazio profondo. (astronave)
+2. Lo _______________ esplora nuove galassie. (astroviaggiatore)
+3. Noi _______________ per trovare mondi nuovi. (esploriamo)
+4. Il pianeta _______________ intorno al sole. (orbita)
+5. Entriamo nel _______________ spaziale. (portale)
+
+### Esercizi di Conversazione Spaziale
+
+#### Esercizio 32: Dialogo tra Esploratori
+**Istruzioni:** Completa il dialogo tra due esploratori spaziali:
+
+**Esploratore A:** Zelara! Dove _______________ oggi? (vai)
+**Esploratore B:** Io _______________ esplorare la nebulosa. (voglio)
+**Esploratore A:** Interessante! _______________ hai la tua astronave? (con)
+**Esploratore B:** Sì, la _______________ è pronta per il viaggio. (kosm-nav)
+**Esploratore A:** _______________ possiamo venire con te? (possiamo)
+**Esploratore B:** Certamente! Ma _______________ preparare l'attrezzatura. (dobbiamo)
+
+#### Esercizio 33: Conversazione alla Stazione Spaziale
+**Istruzioni:** Crea una breve conversazione (6-8 frasi) tra un pilota e un controllore di volo:
+
+**Tema:** Preparazione per il lancio di una missione esplorativa
+
+**Pista:** Usa parole come: lancar, destinar, kosm-nav, signal, prepar, kontrol
+
+### Esercizi di Verbi Modali
+
+#### Esercizio 34: Modali nel Contesto Spaziale
+**Istruzioni:** Trasforma le frasi usando i verbi modali appropriati:
+
+1. Io posso esplorare -> Mi _______________ explor-i
+2. Noi dobbiamo viaggiare -> Ni _______________ voyag-i  
+3. Lei vuole trovare -> Si _______________ trov-i
+4. Voi sapete navigare -> Vi _______________ navig-i
+5. Lui potrebbe venire -> El _______________ venir
+
+#### Esercizio 35: Negazione dei Modali
+**Istruzioni:** Trasforma in negazione le frasi dell'esercizio precedente:
+
+1. Io non posso esplorare -> Mi _______________ explor-i
+2. Noi non dobbiamo viaggiare -> Ni _______________ voyag-i
+3. Lei non vuole trovare -> Si _______________ trov-i
+4. Voi non sapete navigare -> Vi _______________ navig-i
+5. Lui non potrebbe venire -> El _______________ venir
+
+### Esercizi di Espressioni Idiomatiche Cosmiche
+
+#### Esercizio 36: Comprendere le Idiomatiche
+**Istruzioni:** Spiega il significato delle seguenti espressioni:
+
+1. **Stelo en la menso** = _________________________________________
+2. **Kosmo parolas silente** = ____________________________________
+3. **Voj-stelo gvidas nin** = _____________________________________
+4. **Tempo-fluo en manoj** = _____________________________________
+5. **Sun-leviĝo de penso** = _____________________________________
+
+#### Esercizio 37: Usare le Idiomatiche in Contesto
+**Istruzioni:** Completa le frasi con l'espressione idiomatica appropriata:
+
+1. Quando ho avuto l'idea geniale, ho sentito una _______________ nella mente. (stella)
+2. L'osservazione attenta della natura ci ha rivelato che _______________. (il cosmo parla silenziosamente)
+3. Nei momenti di indecisione, seguiamo la _______________ che ci guida. (stella della via)
+4. Questa opportunità è preziosa, perché _______________ nelle mani. (il tempo fluisce)
+5. Dopo aver studiato per mesi, ho finalmente avuto la _______________ del pensiero. (alba)
+
+### Esercizi Creativi
+
+#### Esercizio 38: Creare una Storia Breve
+**Istruzioni:** Scrivi una breve storia (8-10 frasi) su un'esplorazione spaziale usando almeno:
+
+- 3 composti tematici
+- 2 verbi modali  
+- 2 espressioni idiomatiche cosmiche
+- Vocabolario spaziale
+
+#### Esercizio 39: Descrizione di un Pianeta
+**Istruzioni:** Descrivi un pianeta immaginario usando elementi Zelariani:
+
+**Elementi da includere:**
+- Nome del pianeta (in Zelari)
+- Caratteristiche fisiche
+- Abitanti (se presenti)
+- Atmosfera
+- Particolarità uniche
+
+#### Esercizio 40: Diario di Bordo di un Esploratore
+**Istruzioni:** Scrivi 5 voci di diario di bordo di un esploratore spaziale:
+
+**Formato per ogni voce:**
+- Data (in Zelari)
+- Luogo
+- Eventi principali
+- Riflessioni personali
+
+## Soluzioni Aggiuntive
+
+### Chiave di Correzione - Tema Spaziale
+- Esercizio 29: Kosm-nav-Astronave, Stel-viaro-Astroviaggiatore, Explorar-Esplorare, Planed-Pianeta, Orbit-Orbita, Portar-Portale, Signal-Segnale, Map-Mappa
+- Esercizio 30: 1) Astroviaggiatore, 2) Portale spaziale, 3) Riscoperta temporale, 4) Orbita solare, 5) Esploratore galattico
+- Esercizio 31: 1) kosm-nav, 2) stel-viaro, 3) explor-as, 4) orbit-as, 5) kosm-porton
+- Esercizio 34: 1) povar-el, 2) dev-ar-el, 3) vol-ar-el, 4) sciar-el, 5) posibl-el
+- Esercizio 35: 1) na-povar-el, 2) na-dev-ar-el, 3) na-vol-ar-el, 4) na-sciar-el, 5) na-posibl-el
+
 ## Consigli per lo Studio Autonomo
 
 ### Strategie di Apprendimento Efficaci
@@ -348,6 +481,8 @@ Gli esercizi sono organizzati per livello di difficoltà:
 3. **Immersione**: Cerca di usare lo Zelari nelle attività quotidiane
 4. **Conversazione**: Trova un partner di scambio linguistico per praticare
 5. **Autovalutazione**: Usa gli esercizi per monitorare i tuoi progressi
+6. **Tematiche specializzate**: Concentrati su aree di interesse come l'esplorazione spaziale
+7. **Creazione di contenuti**: Scrivi storie o dialoghi usando il nuovo vocabolario
 
 ### Risorse Aggiuntive
 1. **Schede di vocabolario**: Crea flashcard per le parole difficili

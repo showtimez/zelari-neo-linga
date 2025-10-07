@@ -298,6 +298,135 @@ Questa guida ti aiuterà a usare lo Zelari nelle situazioni quotidiane più comu
 **Persona:** La metrostacio el proksime, nur kvin minutoj piede.
 (La stazione della metropolitana è vicina, solo cinque minuti a piedi.)
 
+## Conversazioni di Esplorazione e Viaggio Spaziale
+
+### Alla Stazione Spaziale
+**Personale A:** Zelara! Bonvenon al la kosm-stacio!
+(Ciao! Benvenuto alla stazione spaziale!)
+
+**Personale B:** Gratar! Kiun kosm-nav-on ni uz-os por la mission?
+(Grazie! Quale astronave useremo per la missione?)
+
+**Personale A:** Ni uz-os la "Stel-Voyager". La kosm-nav el pret-a por la launch-o.
+(Useremo la "Stel-Voyager". L'astronave è pronta per il lancio.)
+
+**Personale B:** Tre bone! Kiam ni depart-os?
+(Molto bene! Quando partiremo?)
+
+**Personale A:** La depart-o el je la deka matene. Mi dev-ar prepar la ekip-on.
+(La partenza è alle dieci del mattino. Devo preparare l'equipaggio.)
+
+**Personale B:** Mi povar helpar kun la prepar-o. La signal-oj jam funkcias bone.
+(Posso aiutare con la preparazione. I segnali funzionano già bene.)
+
+### Durante l'Esplorazione Spaziale
+**Esploratore A:** Kosm-kontrol! Ni atingis la destin-on.
+(Controllo spaziale! Abbiamo raggiunto la destinazione.)
+
+**Controllo B:** Excelent! Kiun vi vidas per la kosm-vid-o?
+(Eccellente! Cosa vedi con il visore spaziale?)
+
+**Esploratore A:** Mi vid-as bel-a planed-on kun tri lun-oj. La atmosfer el blu-a.
+(Vedo un bel pianeta con tre lune. L'atmosfera è blu.)
+
+**Controllo B:** Stel-viaro! Kiun signifas la signal-oj ke ni ricevas?
+(Astroviaggiatore! Cosa significano i segnali che riceviamo?)
+
+**Esploratore A:** La signal-oj montr-as viv-as sur la surfac-o. Ni dev-ar explor-i pli profunde.
+(I segnali mostrano vita sulla superficie. Dobbiamo esplorare più a fondo.)
+
+**Controllo B:** Certe! Sed na-risk-i sen prepar-o. La sekureco el unua.
+(Certo! Ma non rischiate senza preparazione. La sicurezza è prima.)
+
+### Conversazione tra Esploratori su un Pianeta
+**Esploratore A:** Vida! Tiu planed el mirinda!
+(Guarda! Questo pianeta è meraviglioso!)
+
+**Esploratore B:** Zi! La plant-oj havas kolor-ojn ke mi neniam vidis.
+(Sì! Le piante hanno colori che non ho mai visto.)
+
+**Esploratore A:** La sun-levar el difer-a de la ter-a. Ni havas du sun-oj en la ciel-o.
+(L'alba è diversa da quella terrestre. Abbiamo due soli nel cielo.)
+
+**Esploratore B:** La gravit el pli mild-a. Mi sent-as kvazam mi povar flug-ar.
+(La gravità è più mite. Sento come se potessi volare.)
+
+**Esploratore A:** Ni dev-ar kolekt-i specimen-oj por la scienc-ist-oj. La temp-o el limita.
+(Dobbiamo raccogliere campioni per gli scienziati. Il tempo è limitato.)
+
+**Esploratore B:** Mi sciar ke ni retrov-os stel-viaro-jn en la kosm-porto. Ni dev-ar rapid-i.
+(So che ritroveremo astroviaggiatori nel portale spaziale. Dobbiamo sbrigarci.)
+
+### Navigazione e Orientamento
+**Navigatore A:** Kiun direkton ni prenas? La map-o montras tri voj-ojn.
+(Quale direzione prendiamo? La mappa mostra tre vie.)
+
+**Navigatore B:** Ni sekvu la signal-ojn de la baz-o. La signal el forta kaj klar-a.
+(Seguiamo i segnali della base. Il segnale è forte e chiaro.)
+
+**Navigatore A:** Sed la kosm-porto trov-as en la kontraŭa direkto. Ni perd-as la tempon.
+(Ma il portale spaziale si trova nella direzione opposta. Stiamo perdendo tempo.)
+
+**Navigatore B:** Ne! Mi hav-as ide-on! Ni povar uzar la kosm-kompas-on. La sun-orbit-o gvidos nin.
+(No! Ho un'idea! Possiamo usare la bussola spaziale. L'orbita solare ci guiderà.)
+
+**Navigatore A:** Tre bone! Stel-viaro, prepar la kosm-nav-on por la nova voyag-o.
+(Molto bene! Astroviaggiatore, prepara l'astronave per il nuovo viaggio.)
+
+### Comunicazione con il Controllo Missione
+**Pilota A:** Kosm-kontrol, jen la piloto. Ni havas problem-on.
+(Controllo spaziale, qui il pilota. Abbiamo un problema.)
+
+**Controllo B:** Kiel problem-o? Ĉu la motor-o malfunkcias?
+(Quale problema? Il motore non funziona?)
+
+**Pilota A:** La gravit el tro forta. Ni dev-ar aljusti la orbit-on.
+(La gravità è troppo forte. Dobbiamo aggiustare l'orbita.)
+
+**Controllo B:** Komprenita. Ni send-as help-on tuj. Restu en kontakto.
+(Ricevuto. Mandiamo aiuto subito. Rimanete in contatto.)
+
+**Pilota A:** Gratar! La kosm-nav funkcias bone, sed ni bezonas help-on pri la navig-o.
+(Grazie! L'astronave funziona bene, ma abbiamo bisogno di aiuto con la navigazione.)
+
+### Conversazione su Scoperte Scientifiche
+**Scienziato A:** Mirinda! Ni trovis novan form-on de viv-as sur tiu planed.
+(Meraviglioso! Abbiamo trovato una nuova forma di vita su quel pianeta.)
+
+**Scienziato B:** Kiun aspekt-as la viv-es-oj? Ĉu ili simil-as al la ter-a viv-es-oj?
+(Come appaiono gli esseri viventi? Sono simili agli esseri viventi terrestri?)
+
+**Scienziato A:** Li havas ses brak-oj kaj tri okul-oj. Li komunik-as per lum-oj.
+(Hanno sei braccia e tre occhi. Comunicano con luci.)
+
+**Scienziato B:** Stelo en la menso! Tio el absolute revolucia por la scienc-o.
+(Stella nella mente! Questo è assolutamente rivoluzionario per la scienza!)
+
+**Scienziato A:** Zi! La kosmo parolas silente al ni. Ni dev-ar studi tiun viv-on kun respekt-o.
+(Sì! Il cosmo parla silenziosamente a noi. Dobbiamo studiare questa vita con rispetto.)
+
+**Scienziato B:** Ni preparos la raport-on por la ter-a scienc-ist-oj. La homaro scios pri tiu malkovr-o.
+(Prepareremo il rapporto per gli scienziati terrestri. L'umanità saprà di questa scoperta.)
+
+### Pianificazione di Future Esplorazioni
+**Comandante A:** La unua mission el sukces-a. Kiun planed-on ni explor-os post?
+(La prima missione è stata un successo. Quale pianeta esploreremo dopo?)
+
+**Comandante B:** Mi pens-as pri la ruĝa planed en la najbara sistemo.
+(Penso al pianeta rosso nel sistema vicino.)
+
+**Comandante A:** Bona ideo! Sed ni bezonas pli bon-a ekip-on por tiu klimat-o.
+(Buona idea! Ma abbiamo bisogno di equipaggiamento migliore per quel clima.)
+
+**Comandante B:** Mi vol-ar kunportar la nova kosm-vehikl-on. Ĝi povar navig-i en sabl-storm-oj.
+(Voglio portare il nuovo veicolo spaziale. Può navigare nelle tempeste di sabbia.)
+
+**Comandante A:** Certe! Kiam ni povar komenci la novan voyag-on?
+(Certo! Quando possiamo iniziare il nuovo viaggio?)
+
+**Comandante B:** Ni prepar-os dum la semajn-o. La temp-fluo en manoj - ni dev-os rapid-i.
+(Prepareremo durante la settimana. Il tempo fluisce nelle mani - dobbiamo sbrigarci.)
+
 **Persona:** Se vi perdis, demandu iun en la informo oficejo.
 (Se ti sei perso, chiedi a qualcuno nell'ufficio informazioni.)
 
