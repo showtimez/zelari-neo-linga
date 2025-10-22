@@ -1,0 +1,11 @@
+# Files generati dall'ambiente o dall'editor
+.DS_Store
+Thumbs.db
+
+# Backup temporanei degli editor
+*~
+*.swp
+*.swo
+
+# File di log locali
+*.log
